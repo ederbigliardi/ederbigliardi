@@ -6,7 +6,7 @@
 
 <p align="center">
 Analista de Testes em transição de carreira com +17 anos de experiência em infraestrutura de redes, projetos e suporte técnico.<br>
-Atuei recentemente como QA em uma empresa de software ERP, estruturando e executando testes manuais e automatizados.
+Atuei recentemente como QA em uma empresa de software ERP, estruturando e executando testes manuais.
 </p>
 
 ---
