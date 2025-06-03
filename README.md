@@ -14,7 +14,7 @@ Atuei recentemente como QA em uma empresa de software ERP, estruturando e execut
 ### 🧪 Sobre mim
 
 - 🧰 Experiência sólida em redes (CCNA), gestão de projetos (PUC-PR) e fundamentos de cloud (AZ-900, AWS)
-- 🎯 Atuei recentemente como QA em uma empresa de software ERP, responsável por estruturar e executar testes manuais e automatizados
+- 🎯 Atuei recentemente como QA em uma empresa de software ERP, responsável por estruturar e executar testes manuais
 - 🚀 Estudando automação com Cypress, Postman, Appium, Selenium e JavaScript
 - 📚 Curso de Formação em Teste e QA pela Escola Iterasys
 - 💡 Atuação prática em testes funcionais, exploratórios, mobile e APIs REST
