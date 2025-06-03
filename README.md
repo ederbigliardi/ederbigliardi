@@ -1,8 +1,12 @@
 <h1 align="center">Olá! 👋 Eu sou Eder Vieira Bigliardi</h1>
 
 <p align="center">
+<img src="https://img.shields.io/badge/Disponível%20para%20novas%20oportunidades-green?style=for-the-badge"/>
+</p>
+
+<p align="center">
 Analista de Testes em transição de carreira com +17 anos de experiência em infraestrutura de redes, projetos e suporte técnico.<br>
-Atualmente atuando como QA em uma empresa de software ERP, focando em testes manuais e automação.
+Atuei recentemente como QA em uma empresa de software ERP, estruturando e executando testes manuais e automatizados.
 </p>
 
 ---
@@ -10,7 +14,7 @@ Atualmente atuando como QA em uma empresa de software ERP, focando em testes man
 ### 🧪 Sobre mim
 
 - 🧰 Experiência sólida em redes (CCNA), gestão de projetos (PUC-PR) e fundamentos de cloud (AZ-900, AWS)
-- 🎯 Atualmente responsável pela área de QA na empresa onde trabalho
+- 🎯 Atuei recentemente como QA em uma empresa de software ERP, responsável por estruturar e executar testes manuais e automatizados
 - 🚀 Estudando automação com Cypress, Postman, Appium, Selenium e JavaScript
 - 📚 Curso de Formação em Teste e QA pela Escola Iterasys
 - 💡 Atuação prática em testes funcionais, exploratórios, mobile e APIs REST
