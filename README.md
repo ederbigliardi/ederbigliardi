@@ -2,6 +2,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Disponível%20para%20novas%20oportunidades-green?style=for-the-badge"/>
+![ISTQB](https://img.shields.io/badge/ISTQB-CTFL_Preparation-blue?logo=testing-library)
 </p>
 
 <p align="center">
