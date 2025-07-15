@@ -5,21 +5,28 @@
 </p>
 
 <p align="center">
-Analista de Testes em transição de carreira com +17 anos de experiência em infraestrutura de redes, projetos e suporte técnico.<br>
-Atuei recentemente como QA em uma empresa de software ERP, estruturando e executando testes manuais.
+Com **17+ anos em infraestrutura de redes, cloud e projetos**, migrei para a área de **Quality Assurance**, onde aplico minha experiência técnica em troubleshooting, análise de sistemas e gestão para garantir qualidade em software.  
 </p>
 
 ---
 
 ### 🧪 Sobre mim
 
-- 🧰 Experiência sólida em redes (CCNA), gestão de projetos (PUC-PR) e fundamentos de cloud (AZ-900, AWS)
-- 🎯 Atuei recentemente como QA em uma empresa de software ERP, responsável por estruturar e executar testes manuais
-- 🚀 Estudando automação com Cypress, Postman, Appium, Selenium e JavaScript
-- 📚 Curso de Formação em Teste e QA pela Escola Iterasys
-- 💡 Atuação prática em testes funcionais, exploratórios, mobile e APIs REST
+- 🎯 **Preparação para CTFL (ISTQB)** - Fundamentos de Teste de Software  
+- 🧰 17+ anos em infraestrutura (redes, cloud, projetos)  
+- 🚀 Foco atual: Automação com Cypress + JS e Testes de API  
 
 ---
+
+### 📜 Jornada de Aprendizado
+
+| Área           | Certificações/Estudos                  |
+|----------------|----------------------------------------|
+| **QA**         | CTFL (em preparação), Iterasys QA      |
+| **Cloud**      | AZ-900, AWS Cloud Practitioner         |
+| **Redes**      | CCNA                                   |
+| **Automação**  | Cypress, Selenium, Postman, Appium     |
+  
 
 ### 💼 Minhas Skills Técnicas
 
