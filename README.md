@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Com **17+ anos em infraestrutura de redes, cloud e projetos**, migrei para a área de **Quality Assurance**, onde aplico minha experiência técnica em troubleshooting, análise de sistemas e gestão para garantir qualidade em software.  
+Com 17+ anos em infraestrutura de redes, cloud e projetos, migrei para a área de Quality Assurance, onde aplico minha experiência técnica em troubleshooting, análise de sistemas e gestão para garantir qualidade em software.  
 </p>
 
 ---
