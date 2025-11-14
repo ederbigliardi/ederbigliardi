@@ -20,12 +20,12 @@ Com 17+ anos em infraestrutura de redes e projetos migrei para a área de Qualit
 
 ### 📜 Jornada de Aprendizado
 
-| Área           | Certificações/Estudos                  |
-|----------------|----------------------------------------|
-| **QA**         | CTFL (em preparação), Iterasys QA      |
-| **Cloud**      | AZ-900, AWS Cloud Practitioner         |
-| **Redes**      | CCNA                                   |
-| **Automação**  | Cypress, Selenium, Postman, Appium     |
+| Área           | Certificações/Estudos                        |
+|----------------|----------------------------------------------|
+| **QA**         | ISTQB® Certified Tester – CTFL, Iterasys QA  |
+| **Cloud**      | AZ-900, AWS Cloud Practitioner               |
+| **Redes**      | CCNA                                         |
+| **Automação**  | Cypress, Selenium, Postman, Appium           |
   
 
 ### 💼 Minhas Skills Técnicas
