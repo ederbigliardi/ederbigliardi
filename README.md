@@ -12,8 +12,8 @@ Com 17+ anos em infraestrutura de redes e projetos migrei para a área de Qualit
 
 ### 🧪 Sobre mim
 
-- 🎯 **Preparação para CTFL (ISTQB)** - Fundamentos de Teste de Software  
-- 🧰 17+ anos em infraestrutura (redes, cloud, projetos)  
+- 🎯 ISTQB® Certified Tester – CTFL  
+- 🧰 17+ anos em infraestrutura (redes, projetos)  
 - 🚀 Foco atual: Automação com Cypress + JS e Testes de API  
 
 ---
